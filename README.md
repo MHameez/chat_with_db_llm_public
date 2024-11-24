@@ -39,8 +39,8 @@ Dynamic Schema Handling: Automatically adapts to the schema of the queried datab
 
 
 ```
-git clone https://github.com/MHameez/chat_with_erp_db_llm.git
-cd chat_with_erp_db_llm
+git clone https://github.com/MHameez/chat_with_db_llm_public.git
+cd chat_with_db_llm_public
 ```
 2)  Set Up a Virtual Environment:
 
@@ -67,6 +67,7 @@ streamlit run app/main.py
 ```
 
 # User Interface:
+
 ![image](https://github.com/user-attachments/assets/42a9b13d-9188-475d-9f26-bf23e1bb178f)
 
 
